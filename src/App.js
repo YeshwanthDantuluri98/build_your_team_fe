@@ -1,7 +1,6 @@
 import { Routes, Route} from 'react-router-dom'
 
-
-const App = ()=>{
+const bytApp = ()=>{
   return(
     <Routes>
         <Route index/>
@@ -9,4 +8,4 @@ const App = ()=>{
   )
 }
 
-export default App;
+export default bytApp;
